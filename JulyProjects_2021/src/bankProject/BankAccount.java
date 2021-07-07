@@ -1,4 +1,4 @@
-package BankProject;
+package bankProject;
 
 public class BankAccount {
 	private double balance;

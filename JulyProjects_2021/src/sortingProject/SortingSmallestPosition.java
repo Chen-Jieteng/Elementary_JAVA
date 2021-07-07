@@ -1,4 +1,4 @@
-package SortingProject;
+package sortingProject;
 
 public class SortingSmallestPosition {
 	public int minPosition(int[] a, int from, int to) {

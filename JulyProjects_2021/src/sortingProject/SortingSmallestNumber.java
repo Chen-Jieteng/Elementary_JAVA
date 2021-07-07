@@ -1,4 +1,4 @@
-package SortingProject;
+package sortingProject;
 //sort a number
 public class SortingSmallestNumber {
 	public int minElement(int[]a, int from, int to) {

@@ -1,4 +1,4 @@
-package BusProject;
+package busProject;
 
 public class Bus {
 	private int street;
